@@ -1,3 +1,5 @@
+![Ailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailsonjr&theme=dark&show_icons=true)
+
 ### Hi there 👋
 
 My first name cames from my father, so you can call me Junior if you want :wink:
