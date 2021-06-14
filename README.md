@@ -1,5 +1,4 @@
 ![Ailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailsonjr&theme=dark&show_icons=true)
-
 ### Hi there 👋
 
 My first name cames from my father, so you can call me Junior if you want :wink:
@@ -17,3 +16,6 @@ My first name cames from my father, so you can call me Junior if you want :wink:
 - ⚡ Fun fact: 
   - People always confuse my name and call me Alison; 
   - I trained in hypnosis and worked as a hypnotherapist; 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonjr)](https://github.com/ailsonjr/github-readme-stats)
+
